@@ -7,5 +7,4 @@ For license info go to the license file.
 
 If you are feeling like buying me a sandwich here is my donate link 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F5ZTUUCY2ZK56)
-I would like to be able to play the games or any other software using this software but that is not required :p
 
